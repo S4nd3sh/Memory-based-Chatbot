@@ -13,6 +13,7 @@ are provided as of know as part of knowledge base csv file.
 
 To add a function:
 Example1 :  
+```
    concious()  
    Please type your Question and press enter - time?
    I don't know, Tell me if you know the answer?  Sys.time()  
@@ -20,10 +21,11 @@ Example1 :
 
    Please type your Question and press enter - time?
    [1] "2017-12-17 13:36:40 IST"
-  
+```
 
 
 Example2 :  
+```
    concious()
    Please type your Question and press enter - What's yesterday's date?
    I don't know, Tell me if you know the answer? Sys.Date() - 1
@@ -31,7 +33,7 @@ Example2 :
 
    Please type your Question and press enter - What's yesterday's date?
    [1] "2017-12-16"
-
+```
 
 That's it add a function to your reply and done.
 
