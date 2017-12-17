@@ -11,10 +11,10 @@ Simple tasks like performing arithmetic operations, searching on google, questio
 are provided as of know as part of knowledge base csv file.  
   
 
-To add a function:
+To add a function:  
 Example1 :  
 ```
-   concious()  
+   > concious()  
    Please type your Question and press enter - time?
    I don't know, Tell me if you know the answer?  Sys.time()  
    [1] "Great!! Thanks for the answer."  
@@ -26,7 +26,7 @@ Example1 :
 
 Example2 :  
 ```
-   concious()
+   > concious()
    Please type your Question and press enter - What's yesterday's date?
    I don't know, Tell me if you know the answer? Sys.Date() - 1
    [1] "Great!! Thanks for the answer."  
